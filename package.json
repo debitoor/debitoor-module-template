@@ -1,0 +1,23 @@
+{
+  "name": "{{name}}",
+  "version": "1.0.0",
+  "description": "{{description}}",
+  "main": "index.js",
+  "scripts": {
+    "test": "_mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/e-conomic/{{name}}"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/e-conomic/{{name}}/issues"
+  },
+  "homepage": "https://github.com/e-conomic/{{name}}",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0",
+    "mocha-jshint": "0.0.9"
+  }
+}
