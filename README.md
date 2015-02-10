@@ -1,6 +1,6 @@
 # {{name}}
 
-{{description}}
+{{description}}.
 
 	npm install {{name}}
 
