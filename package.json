@@ -16,8 +16,8 @@
   },
   "homepage": "https://github.com/e-conomic/{{name}}",
   "devDependencies": {
-    "chai": "^1.10.0",
-    "mocha": "^2.1.0",
-    "mocha-jshint": "^0.0.9"
+    "chai": "^2.2.0",
+    "mocha": "^2.1.1",
+    "mocha-jshint": "^2.1.1"
   }
 }
