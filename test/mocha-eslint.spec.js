@@ -1,4 +1,1 @@
-require('mocha-eslint')([
-	'test',
-	'index.js'
-]);
+require('mocha-eslint')(['.']);
