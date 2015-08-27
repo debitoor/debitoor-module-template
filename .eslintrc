@@ -1,6 +1,6 @@
 {
 	"rules": {
-		"quotes": "single",
+		"quotes": [2, "single"],
 		"strict": [2, "never"],
 		"eol-last": 0,
 		"no-use-before-define": 0,
