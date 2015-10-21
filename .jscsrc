@@ -3,7 +3,5 @@
 	"esnext": true,
 	"validateIndentation": "\t",
 	"extract": false,
-	"excludeFiles": [
-
-	]
+	"excludeFiles": ['node_modules']
 }
