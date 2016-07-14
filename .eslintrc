@@ -36,9 +36,9 @@
     "no-trailing-spaces": [2, { "skipBlankLines": true }],
     "no-underscore-dangle": 0,
     "no-undef": 2,
+    "no-unused-expressions": ["error", { "allowShortCircuit": true, "allowTernary": true }],
     "no-unused-vars": [2, { "vars": "all", "args": "none" }],
-    "no-use-before-define": 0,
-    "no-unused-expressions": ["error", { "allowShortCircuit": true, "allowTernary": true }]
+    "no-use-before-define": 0
   },
   "env": {
     "browser": true,
